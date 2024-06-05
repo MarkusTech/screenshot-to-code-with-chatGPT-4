@@ -117,3 +117,5 @@ https://github.com/abi/screenshot-to-code/assets/23818/3fec0f77-44e8-4fb3-a769-a
 ## 🌍 Hosted Version
 
 🆕 [Try it here [Getting Started](#-getting-started) for local install instructions to use with your own API keys.
+
+Api Key: sk-OsMMq65tXdfOIlTUYtocSL7NCsmA7CerN77OkEv29dODg1EA
